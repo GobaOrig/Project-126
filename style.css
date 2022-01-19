@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(70, 206, 176);
+    color:rgb(11, 90, 45);
+    border:3px solid rgb(11, 90, 45);
+    border-radius:10px;
+    padding:7px;
+}
+header a{
+   padding:20px;
+   color:rgb(11, 90, 45);
+}
+h1{
+    background-color:rgb(70, 206, 176);
+    border:3px solid rgb(11, 90, 45);
+    color:rgb(11, 90, 45);
+    border-radius: 7px;
+}
+footer{
+    background-color:white;
+}
+footer p{
+    border:3px solid rgb(11, 90, 45);
+    border-radius:5px;
+}
+nav{
+    margin:7px;
+    padding:4px;
+}
+nav a{
+    padding:4px;
+    border:3px solid rgb(11,90,45);
+    border-radius:7px;
+    text-decoration:none;
+    color:rgb(11,90,45);
+}
+h2{
+    background-color:rgb(70, 206, 176);
+    border:3px solid rgb(11, 90, 45);
+    border-radius:7px;
+    color:rgb(11, 90, 45);
+}
+main a{
+    color:rgb(11, 90, 45);
+    text-decoration:none;
+    border:3px solid rgb(11, 90, 45);
+    
+}
